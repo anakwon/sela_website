@@ -1,0 +1,40 @@
+
+.topBanner {
+  height: 7em;
+  text-align: center;
+  padding-top: 4em;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+.navbar {
+  height: 30px;
+  background-color: #F25F70;
+  padding: 7px;
+  padding-bottom: 23px;
+}
+ul {
+  text-align: -webkit-center;
+}
+ul:after {
+	content: '';
+	display: inline-block;
+	width: 100%;
+}
+li{
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+}
+li:hover{
+	color:black;
+}
+.navbar li {
+	text-transform: uppercase;
+	display: inline-block;
+	text-indent: 20px;
+}
+.mainSection_img{
+	height: 10em;
+	width: 100%;
+}
+.mainSection_img img{
+	width: 100%;
+}
